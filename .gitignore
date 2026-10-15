@@ -3,3 +3,6 @@
 *.smdh
 build/
 Release/
+romfs/assets/**/*.png
+romfs/assets/**/*.xml
+romfs/assets/**/*.t3x
